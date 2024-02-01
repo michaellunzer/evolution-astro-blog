@@ -9,7 +9,7 @@ tags:
   - Legs and Triceps
   - Evolution  
 pubDate: 2023-09-08
-cover: src/images/visvrs6.webp
+cover: src/images/visvrs11.webp
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---

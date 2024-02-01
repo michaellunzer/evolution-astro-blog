@@ -9,7 +9,7 @@ tags:
   - Chest and Back 
   - Evolution
 pubDate: 2023-10-06
-cover: src/images/visvrs6.webp
+cover: src/images/visvrs1.webp
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello  
 ---
