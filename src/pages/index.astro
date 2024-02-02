@@ -4,6 +4,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import Pagination from '../components/Pagination.astro';
 
+import { Image } from 'astro:assets';
+import quote1 from '/src/images/quote1.jpg';
+
 const allPosts = await getCollection('posts');
 allPosts.sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
 
@@ -15,7 +18,8 @@ const totalPages = Math.ceil(allPosts.length / postsPerPage);
 <BaseLayout>
 
   <div class='flex items-center'>
-    <img src='/src/images/quote1.jpeg' class='postcard-content-special center' />
+    <Image src={quote1} class='postcard-content-special center' alt="a quote"/>
+    <!-- <img src='/src/images/quote1.jpg' class='postcard-content-special center' /> -->
   </div>
 
   <!-- <div class='flex justify-between items-center p-2'>
