@@ -7,31 +7,29 @@ import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 
 // Astro Configuration
+import netlify from "@astrojs/netlify";
+
+// https://astro.build/config
 export default defineConfig({
   // Site Information
   site: 'https://visvrs.vercel.app',
-
   trailingSlash: 'never',
-  
   prefetch: {
     prefetchAll: true
   },
-
   // Markdown Configuration
   markdown: {
     // Using custom Remark plugin to get modified time
     remarkPlugins: [remarkModifiedTime]
   },
-
   // Third-party Integrations
   integrations: [
-    // Tailwind CSS for styling
-    tailwind(),
-
-    // Sitemap generator
-    sitemap(),
-
-    // MDX support
-    mdx()
-  ]
+  // Tailwind CSS for styling
+  tailwind(),
+  // Sitemap generator
+  sitemap(),
+  // MDX support
+  mdx()],
+  output: "server",
+  adapter: netlify()
 });
