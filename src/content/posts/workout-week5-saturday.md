@@ -9,7 +9,7 @@ tags:
   - Deltoids and Biceps
   - Evolution
 pubDate: 2023-09-29  
-cover: src/images/visvrs27.webp
+cover: src/images/visvrs7.webp
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---

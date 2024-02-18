@@ -41,3 +41,23 @@ Workout 2 (Some Other Time During the Day)
   Dumbbell Alternating Curl with Twist (drop set): 6 reps each; lower the weight for 8 reps each and then lower the weight again for 10 reps each.
 
   Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+- Circuit 3: This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+  Rope Front Raise: 12 reps.
+
+  Rope Hammer Curl: 12 reps; weight will be moderate, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. 
+
+Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+- Circuit 4: This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+  Dumbbell Lateral Raise: 12 reps.
+
+  Triple Dumbbell Curl: 12 reps each; weight will be light, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. 
+
+Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.

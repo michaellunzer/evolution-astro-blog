@@ -49,3 +49,11 @@ Workout 2 (Some Other Time During the Day)
   Standing Front-Lat Push-Down: 12 reps; weight will be moderate, so that you can get all of the reps with good form.
 
   Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+- Circuit 4: This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+  Pec Deck: 12 reps.
+
+  Lat Pull-Down with Narrow Neutral Grip: 12 reps.
+
+  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.

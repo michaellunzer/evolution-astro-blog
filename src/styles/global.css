@@ -109,3 +109,17 @@
     margin-right: auto;
     width: 50%;
   }
+
+  /* @media screen and (min-width: 600px)  {
+    .mobile-break { display: none; }
+} */
+
+.outer {
+    position: absolute;
+  }
+
+.inner {
+    position: relative;
+    top: 0; 
+    left: 0;  
+}

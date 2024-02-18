@@ -45,3 +45,23 @@ Workout 2 (Some Other Time During the Day)
   V-Bar Triceps Extension (triple drop set): 10 reps; lower the weight for 10 reps and then lower the weight again for 10 reps.
   
   Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+- Circuit 3: This couplet set is performed with little or no rest
+between each set until both exercises are completed.
+
+  Box or Bench Jump: 15 reps; stand up all the way each time on the Jump.
+
+  Bench Dip: 15 reps.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. 
+Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+■ Circuit 4: This couplet set is performed with little or no rest
+between each set until both exercises are completed.
+
+  One-Leg Bench Bridge: 15 reps each leg.
+  
+  Burpee: 15 reps.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. 
+Push yourself to stay at the same weight, or slightly increase the weight on each set.
