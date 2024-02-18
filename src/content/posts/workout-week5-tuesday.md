@@ -56,7 +56,7 @@ between each set until both exercises are completed.
 Rest 1 minute and then repeat circuit. Do this 4 times. 
 Push yourself to stay at the same weight, or slightly increase the weight on each set.
 
-■ Circuit 4: This couplet set is performed with little or no rest
+- Circuit 4: This couplet set is performed with little or no rest
 between each set until both exercises are completed.
 
   One-Leg Bench Bridge: 15 reps each leg.
