@@ -26,6 +26,6 @@ Workout 2 (Some Other Time During the Day)
   
 - Do an Ab Program. (See page 124.)
 
-- Do the same workout from week 5, except cut down the rest time to 50 seconds.
+- Do the same workout from <a href="/workout-week5-wednesday/">week 5</a>, except cut down the rest time to 50 seconds.
 
 - After the workout: Go directly into low- to medium-intensity cardio for at least 20 minutes.

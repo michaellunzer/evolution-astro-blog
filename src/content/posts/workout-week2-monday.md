@@ -18,6 +18,6 @@ MONDAY: CHEST AND BACK
 
 - Dynamic Warm-Up
 
-- Do the same workout from week 1, except cut down the rest time to 50 seconds.
+- Do the same workout from <a href="/workout-week1-monday/">week 1</a>, except cut down the rest time to 50 seconds.
 
 - After the workout: Go directly into low- to medium-intensity cardio for at least 20 minutes.

@@ -20,4 +20,4 @@ SATURDAY: DELTOIDS AND BICEPS
 
 - Do an Ab Program. (See page 124.)
 
-- Do the same workout from week 1, except cut down the rest time to 50 seconds.
+- Do the same workout from <a href="/workout-week1-saturday/">week 1</a>, except cut down the rest time to 50 seconds.

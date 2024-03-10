@@ -18,4 +18,4 @@ TUESDAY: LEGS AND TRICEPS
 
 - Dynamic Warm-Up 
 
-- Do the same workout from week 1, except cut down the rest time to 50 seconds.
+- Do the same workout from <a href="/workout-week1-tuesday/">week 1</a>, except cut down the rest time to 50 seconds.
