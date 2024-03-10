@@ -41,3 +41,9 @@ MONDAY: CHEST AND BACK
 - Circuit 3: This couplet set is performed with little or no rest between each set until both exercises are completed.
 
   Dumbbell Bench Press: 12 reps; weight will be moderate, so that you can get all of the reps with good form
+
+  Bent-Over Barbell Row with Wide Pronated Grip: reps; weight will be moderate, so that you can get all of the reps with good form.
+
+  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+After the workout: Go directly into low- to medium-intensity cardio. Can be any variant that you like (stairs, treadmill rower, jogging outside), but you must keep a consistent pace. with your heart rate in the 120-to-130 range for at least 20 minutes.
