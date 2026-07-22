@@ -14,35 +14,63 @@ coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---
 
-TUESDAY: LEGS AND TRICEPS
+**TUESDAY: LEGS AND TRICEPS**
 
-- Dynamic Warm-Up
-- Do an Ab Program. (See page 124.)
+■ Dynamic Warm-Up
+■ Do an Ab Program. (See page 124.)
 
-- Circuit 1: This triplet set is performed with little or no rest between each set until all three exercises are completed.
+**■ Circuit 1:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
-  Barbell Back Squat: 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+### Barbell Back Squat
+<img src="/exercises/barbell-back-squat.gif" alt="Barbell back squat demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  EZ-Bar Nosebuster: 12 reps; weight will be moderate, so that you can get all of the reps with good form.
+15 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  EZ-Bar (or Barbell) Triceps Press with Narrow Grip: go right into it with the same weight as the Nosebuster.
+### EZ-Bar Nosebuster
+<img src="/exercises/nosebuster.gif" alt="EZ-bar nosebuster (lying triceps extension) demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+12 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-- Circuit 2: This triplet set is performed with little or no rest between each set until all three exercises are completed.
+### EZ-Bar (or Barbell) Triceps Press with Narrow Grip
+<img src="/exercises/ez-bar-triceps-press.gif" alt="EZ-bar narrow-grip triceps press demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Bulgarian Split Squat: 12 to 15 reps; weight will be light to moderate, so that you can get all of the reps with good form.
+Go right into it with the same weight as the Nosebuster.
 
-  Rope Triceps Extension—Overhead: 12 reps; weight will be light to moderate, so that you can get all of the reps with good form.
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
 
-  Rope Triceps Extension in Front of Body: 12 reps; weight will be light to moderate, so that you can get all of the reps with good form.
+**■ Circuit 2:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+### Bulgarian Split Squat
+<img src="/exercises/bulgarian-split-squat.gif" alt="Bulgarian split squat demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-- Circuit 3: This couplet set is performed with little or no rest between each set until both exercises are completed.
+12 to 15 reps; weight will be light to moderate, so that you can get all of the reps with good form.
 
-  Dumbbell Bench Step-Up: 20 reps, 10 each leg; weight will be light, so that you can get all of the reps with good form.
+### Rope Triceps Extension—Overhead
+<img src="/exercises/rope-overhead-triceps-extension.gif" alt="Overhead rope triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Bench Dip: 20 reps; really pay attention to form on this one.
+12 reps; weight will be light to moderate, so that you can get all of the reps with good form.
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself and stay at the same dumbbell weight on each set.
+### Rope Triceps Extension in Front of Body
+<img src="/exercises/rope-triceps-extension.gif" alt="Rope triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+12 reps; weight will be light to moderate, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+**■ Circuit 3:** This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+### Dumbbell Bench Step-Up
+<img src="/exercises/dumbbell-step-up.gif" alt="Dumbbell step-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+20 reps, 10 each leg; weight will be light, so that you can get all of the reps with good form.
+
+### Bench Dip
+<img src="/exercises/bench-dip.gif" alt="Bench dip demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+20 reps; really pay attention to form on this one.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself and stay at the same dumbbell weight on each set.
+
+---
+
+*Exercise animations © [Gym visual](https://gymvisual.com/), via the [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset).*

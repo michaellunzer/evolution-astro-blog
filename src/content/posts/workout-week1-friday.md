@@ -14,30 +14,52 @@ coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---
 
-FRIDAY: LEGS AND TRICEPS
+**FRIDAY: LEGS AND TRICEPS**
 
-- Dynamic Warm-Up
+■ Dynamic Warm-Up
 
-- Circuit 1: This couplet set is performed with little or no rest between each set until both exercises are completed.
+**■ Circuit 1:** This couplet set is performed with little or no rest between each set until both exercises are completed.
 
-  Reverse Lunge: sets of 15, 12, 10, 10, and 10 reps; weight will be moderate, so that you can get all of the reps with good form.
+### Reverse Lunge
+<img src="/exercises/reverse-lunge.gif" alt="Reverse lunge demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Straight-Bar Triceps Extension: sets of 15, 12, 10, 10, and 10 reps; weight will be moderate, so that you can get all of the reps with good form.
+Sets of 15, 12, 10, 10, and 10 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  Rest 1 minute and then repeat circuit until done.
+### Straight-Bar Triceps Extension
+<img src="/exercises/straight-bar-triceps-extension.gif" alt="Straight-bar triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-- Circuit 2: This couplet set is performed with little or no rest between each set until both exercises are completed.
+Sets of 15, 12, 10, 10, and 10 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  Leg Extension: 10 to 12 reps; weight will be light to moderate, so that you can get all of the reps with good form and a good isometric contraction at the peak.
+Rest 1 minute and then repeat circuit until done.
 
-  French Press: 10 to 12 reps.
+**■ Circuit 2:** This couplet set is performed with little or no rest between each set until both exercises are completed.
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+### Leg Extension
+<img src="/exercises/leg-extension.gif" alt="Leg extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-- Circuit 3: This couplet set is performed with little or no rest between each set until both exercises are completed.
+10 to 12 reps; weight will be light to moderate, so that you can get all of the reps with good form and a good isometric contraction at the peak.
 
-  Barbell Front Squat: 10 reps; weight will be moderate, so that you can get all of the reps with good form.
+### French Press
+<img src="/exercises/french-press.gif" alt="French press (overhead triceps extension) demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rope Triceps Extension in Front of Body: 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+10 to 12 reps.
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+**■ Circuit 3:** This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+### Barbell Front Squat
+<img src="/exercises/barbell-front-squat.gif" alt="Barbell front squat demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+10 reps; weight will be moderate, so that you can get all of the reps with good form.
+
+### Rope Triceps Extension in Front of Body
+<img src="/exercises/rope-triceps-extension.gif" alt="Rope triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+15 reps; weight will be moderate, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+---
+
+*Exercise animations © [Gym visual](https://gymvisual.com/), via the [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset).*

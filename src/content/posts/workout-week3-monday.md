@@ -14,36 +14,64 @@ coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---
 
-MONDAY: CHEST AND BACK
+**MONDAY: CHEST AND BACK**
 
-- Dynamic Warm-Up
+■ Dynamic Warm-Up
 
-- Circuit 1: This triplet set is performed with little or no rest between each set until all three exercises are completed.
+**■ Circuit 1:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
-  Barbell Incline Press: 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+### Barbell Incline Press
+<img src="/exercises/barbell-incline-press.gif" alt="Barbell incline press demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Pull-Up with Wide Pronated Grip: 4 to 10 reps; even if you can only do 1, work on getting the form down.
+15 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  Lat Pull-Down with Wide Pronated Grip: 12 to 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+### Pull-Up with Wide Pronated Grip
+<img src="/exercises/pull-up.gif" alt="Pull-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+4 to 10 reps; even if you can only do 1, work on getting the form down.
 
-- Circuit 2: This triplet set is performed with little or no rest between each set until all three exercises are completed.
+### Lat Pull-Down with Wide Pronated Grip
+<img src="/exercises/lat-pulldown.gif" alt="Lat pull-down demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Cable Chest Flye: 12 to 15 reps; weight will be light to moderate, so that you can get all of the reps with good form and a good isometric contraction at the peak.
+12 to 15 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  Push-Up: 15 reps; drop down immediately after the last flye rep.
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
 
-  Low Row with Narrow Neutral Grip: 12 to 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+**■ Circuit 2:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
-  
-- Circuit 3: This couplet set is performed with little or no rest between each set until both exercises are completed.
+### Cable Chest Flye
+<img src="/exercises/cable-chest-flye.gif" alt="Cable chest flye demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Dumbbell Bench Press: 12 reps; weight will be moderate, so that you can get all of the reps with good form
+12 to 15 reps; weight will be light to moderate, so that you can get all of the reps with good form and a good isometric contraction at the peak.
 
-  Bent-Over Barbell Row with Wide Pronated Grip: reps; weight will be moderate, so that you can get all of the reps with good form.
+### Push-Up
+<img src="/exercises/push-up.gif" alt="Push-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+15 reps; drop down immediately after the last flye rep.
+
+### Low Row with Narrow Neutral Grip
+<img src="/exercises/low-row.gif" alt="Low row demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+12 to 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+**■ Circuit 3:** This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+### Dumbbell Bench Press
+<img src="/exercises/dumbbell-bench-press.gif" alt="Dumbbell bench press demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+12 reps; weight will be moderate, so that you can get all of the reps with good form.
+
+### Bent-Over Barbell Row with Wide Pronated Grip
+<img src="/exercises/bent-over-barbell-row.gif" alt="Bent-over barbell row demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+Reps; weight will be moderate, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
 
 After the workout: Go directly into low- to medium-intensity cardio. Can be any variant that you like (stairs, treadmill rower, jogging outside), but you must keep a consistent pace. with your heart rate in the 120-to-130 range for at least 20 minutes.
+
+---
+
+*Exercise animations © [Gym visual](https://gymvisual.com/), via the [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset).*

@@ -14,51 +14,83 @@ coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---
 
-FRIDAY: LEGS AND TRICEPS
+**FRIDAY: LEGS AND TRICEPS**
 
-Workout 1 (Preferably First Thing in the Morning on an Empty Stomach)
+**Workout 1 (Preferably First Thing in the Morning on an Empty Stomach)**
 
-- 30 to 45 minutes of low- to medium-intensity cardio. Can be any variant that you like (stairs, treadmill, rower, jogging outside), but you must keep a consistent pace, with your heart rate in the 120-to-130 range.
+■ 30 to 45 minutes of low- to medium-intensity cardio. Can be any variant that you like (stairs, treadmill, rower, jogging outside), but you must keep a consistent pace, with your heart rate in the 120-to-130 range.
 
-Workout 2 (Some Other Time During the Day)
+**Workout 2 (Some Other Time During the Day)**
 
-- Dynamic Warm-Up
-  
-- Do an Ab Program. (See page 124.)
+■ Dynamic Warm-Up
+■ Do an Ab Program. (See page 124.)
 
-- Circuit 1: This giant set is performed with little or no rest between each set until all four exercises are completed.
+**■ Circuit 1:** This giant set is performed with little or no rest between each set until all four exercises are completed.
 
-  Dumbbell Bench Step-Up: 10 reps each leg.
-  
-  Plyo Step-Up with a Jump: 10 reps each leg.
-  
-  Body-Weight Step-Up: 10 reps each leg.
-  
-  Body-Weight Nosebuster: 15 reps.
+### Dumbbell Bench Step-Up
+<img src="/exercises/dumbbell-step-up.gif" alt="Dumbbell step-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+10 reps each leg.
 
-- Circuit 2: This couplet set is performed with little or no rest between each set until both exercises are completed.
+### Plyo Step-Up with a Jump
+<img src="/exercises/dumbbell-step-up.gif" alt="Step-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Leg Extension (drop set): 10 reps; lower the weight for 10 reps, and then lower the weight again for 10 reps.
+10 reps each leg.
 
-  Straight-Bar Triceps Extension (drop set): 10 reps; lower the weight for 10 reps, and then lower the weight again for 10 reps.
+### Body-Weight Step-Up
+<img src="/exercises/dumbbell-step-up.gif" alt="Step-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+10 reps each leg.
 
+### Body-Weight Nosebuster
+<img src="/exercises/nosebuster.gif" alt="Nosebuster (lying triceps extension) demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-- Circuit 3: This couplet set is performed with little or no rest between each set until both exercises are completed.
-
-  Traveling Squat Jump: 30 reps.
-
-  One-Arm Cable Triceps Extension (drop set): 10 reps each arm; lower the weight for 10 reps each arm, and then lower the weight again for 10 reps each arm.
+15 reps.
 
 Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
 
-- Circuit 4: This couplet set is performed with little or no rest between each set until both exercises are completed. 
-  Bench Jump-Over: 20 reps.
+**■ Circuit 2:** This couplet set is performed with little or no rest between each set until both exercises are completed.
 
-  One-Arm Lying Cross-Body Dumbbell Triceps Extension: 12 reps each arm.
+### Leg Extension (drop set)
+<img src="/exercises/leg-extension.gif" alt="Leg extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-Rest 1 minute and then repeat circuit. Do this 4 times. 
-Push yourself to stay at the same weight, or slightly increase the weight on each set.
+10 reps; lower the weight for 10 reps, and then lower the weight again for 10 reps.
+
+### Straight-Bar Triceps Extension (drop set)
+<img src="/exercises/straight-bar-triceps-extension.gif" alt="Straight-bar triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+10 reps; lower the weight for 10 reps, and then lower the weight again for 10 reps.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+**■ Circuit 3:** This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+### Traveling Squat Jump
+<img src="/exercises/jump-squat.gif" alt="Squat jump demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+30 reps.
+
+### One-Arm Cable Triceps Extension (drop set)
+<img src="/exercises/one-arm-cable-triceps-extension.gif" alt="One-arm cable triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+10 reps each arm; lower the weight for 10 reps each arm, and then lower the weight again for 10 reps each arm.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+**■ Circuit 4:** This couplet set is performed with little or no rest between each set until both exercises are completed.
+
+### Bench Jump-Over
+*(demonstration image coming soon)*
+
+20 reps.
+
+### One-Arm Lying Cross-Body Dumbbell Triceps Extension
+<img src="/exercises/one-arm-dumbbell-lying-triceps-extension.gif" alt="One-arm lying dumbbell triceps extension demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+12 reps each arm.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+---
+
+*Exercise animations © [Gym visual](https://gymvisual.com/), via the [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset).*
