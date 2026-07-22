@@ -18,6 +18,7 @@ author: Joe Manganiello
 **TUESDAY: LEGS AND TRICEPS**
 
 ■ Dynamic Warm-Up
+
 ■ Do an [Ab Program](/ab-program)
 
 **■ Circuit 1:** This triplet set is performed with little or no rest between each set until all three exercises are completed.

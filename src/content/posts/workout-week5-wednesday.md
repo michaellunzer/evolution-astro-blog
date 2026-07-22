@@ -24,6 +24,7 @@ author: Joe Manganiello
 **Workout 2 (Some Other Time During the Day)**
 
 ■ Dynamic Warm-Up
+
 ■ Do an [Ab Program](/ab-program)
 
 **■ Circuit 1:** This couplet set is performed with little or no rest between each set until both exercises are completed.
