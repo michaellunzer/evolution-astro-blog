@@ -14,37 +14,68 @@ coverAlt: VisVrs-Lorem ipsum dolor sit amet
 author: Joe Manganiello
 ---
 
-THURSDAY: CHEST AND BACK
+**THURSDAY: CHEST AND BACK**
 
-- Dynamic Warm-Up
-- Do an Ab Program. (See page 124.)
+■ Dynamic Warm-Up
+■ Do an Ab Program. (See page 124.)
 
-- Circuit 1: This triplet set is performed with little or no rest between each set until all three exercises are completed.
+**■ Circuit 1:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
-  Barbell Bench Press: 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+### Barbell Bench Press
+<img src="/exercises/barbell-bench-press.gif" alt="Barbell bench press demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Chin-Up with Narrow Supinated Grip: 4 to 10 reps; even if you can only do 1, work on getting the form down.
+15 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  Lat Pull-Down with Narrow Neutral Grip: 12 to 15 reps; weight will be moderate, so that you can get all of the reps with good form.
+### Chin-Up with Narrow Supinated Grip
+<img src="/exercises/chin-up.gif" alt="Chin-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+4 to 10 reps; even if you can only do 1, work on getting the form down.
 
-- Circuit 2: This triplet set is performed with little or no rest between each set until all three exercises are completed.  
+### Lat Pull-Down with Narrow Neutral Grip
+<img src="/exercises/lat-pulldown.gif" alt="Lat pull-down demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Pec Deck: 12 to 15 reps; weight will be light to moderate, so that you can get all of the reps with good form and a good isometric contraction at the peak.
+12 to 15 reps; weight will be moderate, so that you can get all of the reps with good form.
 
-  Bar Dip: 15 reps; if you cannot do Bar Dips, substitute Push-Ups.
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
 
-  One-Arm Dumbbell Row with Supinated Grip: 12 reps each arm; weight will be moderate to heavy, but make sure that you can get all of the reps with good form.
+**■ Circuit 2:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+### Pec Deck
+*(demonstration image coming soon)*
 
-- Circuit 3: This triplet set is performed with little or no rest between each set until all three exercises are completed.
+12 to 15 reps; weight will be light to moderate, so that you can get all of the reps with good form and a good isometric contraction at the peak.
 
-  Bench Plyo Push-Up: 10 reps.
+### Bar Dip
+<img src="/exercises/bar-dip.gif" alt="Bar dip demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Bench Push-Up: 10 reps.
+15 reps; if you cannot do Bar Dips, substitute Push-Ups.
 
-  Low Row with Wide Pronated Grip: 10 reps; weight will be moderate, so that you can get all of the reps with good form.
+### One-Arm Dumbbell Row with Supinated Grip
+<img src="/exercises/one-arm-dumbbell-row.gif" alt="One-arm dumbbell row demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
 
-  Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+12 reps each arm; weight will be moderate to heavy, but make sure that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+**■ Circuit 3:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
+
+### Bench Plyo Push-Up
+<img src="/exercises/push-up.gif" alt="Push-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+10 reps.
+
+### Bench Push-Up
+<img src="/exercises/push-up.gif" alt="Push-up demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+10 reps.
+
+### Low Row with Wide Pronated Grip
+<img src="/exercises/low-row.gif" alt="Low row demonstration" width="200" loading="lazy" style="background:#fff;border-radius:8px;padding:6px" />
+
+10 reps; weight will be moderate, so that you can get all of the reps with good form.
+
+Rest 1 minute and then repeat circuit. Do this 4 times. Push yourself to stay at the same weight, or slightly increase the weight on each set.
+
+---
+
+*Exercise animations © [Gym visual](https://gymvisual.com/), via the [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset).*

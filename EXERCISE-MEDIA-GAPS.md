@@ -1,43 +1,69 @@
-# Exercise Media — Gaps & Substitutions (Week 1)
+# Exercise Media — Gaps & Substitutions
 
-This tracks where the [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
-media didn't have an exact match for a Week-1 exercise. GIFs are vendored in `public/exercises/` and
-referenced from the workout posts by slug filename.
+Tracks where the [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) media
+didn't have an exact match for an exercise in the workout posts. GIFs are vendored in `public/exercises/`
+and referenced from the posts by slug filename.
+
+**Scope:** Only **Weeks 1, 3, and 5** contain exercise lists and were illustrated. **Weeks 2, 4, and 6 are
+reference weeks** ("do the same workout from week X, cut the rest time") — they link straight to the
+illustrated week, so they were intentionally left unchanged.
 
 ## 🔴 Gaps — no suitable dataset match (need a fill-in image)
 
-| Post | Exercise | Slug expected | Status |
-|------|----------|---------------|--------|
-| Monday | **Pec Deck** | `pec-deck.gif` | **No match** — the dataset has no machine pec-deck / pec-fly; only a pec *stretch* and an unrelated "butterfly yoga pose". Post currently shows *"(demonstration image coming soon)"*. Drop a `pec-deck.gif` into `public/exercises/` and add the `<img>` tag to `workout-week1-monday.md`. |
+Each of these currently shows *"(demonstration image coming soon)"* in the post. Drop a `<slug>.gif` into
+`public/exercises/` and add the `<img>` tag to the listed post(s).
+
+| Exercise | Appears in | Why no match |
+|----------|-----------|--------------|
+| **Pec Deck** | wk1 Mon, wk3 Thu, wk5 Thu | Dataset has no machine pec-deck / pec-fly (only a pec *stretch*). |
+| **Lying J Press** | wk3 Fri | Niche hybrid press; not in dataset. |
+| **Body-Weight Squat** | wk5 Tue | No plain bodyweight/air-squat clip (only weighted or single-leg variants). |
+| **Seated Dumbbell Swim and Row** | wk5 Thu | Niche movement; not in dataset. |
+| **Bench Jump-Over** | wk5 Fri | Not in dataset (nearest is a one-leg box-jump). |
 
 ## 🟡 Substitutions — matched to a close-but-not-exact dataset movement (review)
 
-These render fine but the animation is a near-equivalent, not the exact named variation. Swap the file in
-`public/exercises/` if you'd prefer a different demo (keep the same filename and no post edits are needed).
+These render fine but the animation is a near-equivalent. To swap, replace the file in `public/exercises/`
+(keep the same filename — no post edits needed).
+
+**Weeks 1 (recap):** grip-specific lat pull-downs / low rows → generic cable variants; V-bar &
+straight-bar triceps extensions → cable pushdown; "Triple"/"Two-Arm"/"Rotating" dumbbell variants → the
+standard movement; Reverse Lunge → dumbbell rear lunge; French Press → EZ-bar standing french press; Bar
+Dip → parallel-bar triceps dip.
+
+**Weeks 3 & 5 additions:**
 
 | Exercise (post text) | GIF used (dataset source) | Note |
 |----------------------|---------------------------|------|
-| Lat Pull-Down with Wide Pronated Grip (Mon) | `lat-pulldown.gif` — *cable lat pulldown, full ROM* | Generic pulldown; grip/width not exact. |
-| Lat Pull-Down with Narrow Supinated Grip (Thu) | `lat-pulldown-supinated.gif` — *reverse-grip machine lat pulldown* | Reverse (supinated) grip, but machine not narrow-cable. |
-| Low Row with Narrow Neutral/Supinated Grip (Mon/Thu) | `low-row.gif` — *cable low seated row* | Generic low row; grip not exact. Reused for both days. |
-| V-Bar Triceps Extension (Tue) | `v-bar-triceps-extension.gif` — *cable pushdown* | Cable pushdown; attachment is a bar, not specifically a V-bar. |
-| Straight-Bar Triceps Extension (Fri) | `straight-bar-triceps-extension.gif` — *cable pushdown* | Same cable-pushdown clip as V-bar above. |
-| Two-Arm, One-Dumbbell Overhead Triceps Extension (Tue) | `overhead-triceps-extension.gif` — *dumbbell standing triceps extension* | Standing, single-dumbbell overhead extension. |
-| Seated Dumbbell Two-Arm Curl (Wed) | `seated-dumbbell-two-arm-curl.gif` — *dumbbell biceps curl* | Standing two-arm curl (no clean seated two-arm clip). |
-| Triple Dumbbell Curl (Sat) | `triple-dumbbell-curl.gif` — *dumbbell biceps curl* | "Triple" (21s-style) has no dataset clip; standard curl shown. |
-| Dumbbell Rotating Lateral Raise (Sat) | `dumbbell-rotating-lateral-raise.gif` — *dumbbell lateral raise* | Standard lateral raise; no "rotating" variant in dataset. |
-| Reverse Lunge (Fri) | `reverse-lunge.gif` — *dumbbell rear lunge* | Rear/reverse lunge with dumbbells. |
-| French Press (Fri) | `french-press.gif` — *EZ-bar standing french press* | Matches the movement; EZ-bar variant. |
-| Bar Dip (Thu) | `bar-dip.gif` — *triceps dip* | Parallel-bar dip. |
+| Standing Military Press | `standing-military-press.gif` — *barbell standing wide military press* | Wide-grip standing press. |
+| Seated Military Press | `seated-military-press.gif` — *lever (machine) military press* | Machine, not free-bar. |
+| Neutral-Grip Machine Overhead Press | `machine-overhead-press.gif` — *lever shoulder press* | Generic machine press. |
+| Bulgarian Split Squat | `bulgarian-split-squat.gif` — *dumbbell single-leg split squat* | Rear-foot-elevated implied. |
+| One-Leg Lunge | `lunge.gif` — *barbell lunge* | Shown with barbell. |
+| Dumbbell Walking Lunge | `walking-lunge.gif` — *walking lunge* | — |
+| Bench / Plyo / Narrow-Grip Push-Up variants | `push-up.gif` — *push-up* | Base push-up for all plyo/bench variants. |
+| Diamond Push-Up | `diamond-push-up.gif` — *diamond push-up* | Exact. |
+| Plyo / Traveling Squat Jump | `jump-squat.gif` — *jump squat* | Base jump squat. |
+| Plyo / Body-Weight Step-Up | `dumbbell-step-up.gif` — *dumbbell step-up* | Base step-up. |
+| Body-Weight Nosebuster / EZ-Bar Nosebuster | `nosebuster.gif` — *barbell lying triceps ext. (skull crusher)* | Skull-crusher stand-in. |
+| One-Leg Bench Bridge | `glute-bridge.gif` — *glute bridge (two legs on bench)* | Two-leg version. |
+| Box or Bench Jump | `box-jump.gif` — *box jump down w/ one-leg stabilization* | Closest jump clip. |
+| Seated Dumbbell Row | `seated-cable-row.gif` — *cable seated row* | Cable, not dumbbell. |
+| Standing Front-Lat Push-Down | `straight-arm-pulldown.gif` — *cable straight-arm pulldown* | Same movement. |
+| Cable Chest Flye | `cable-chest-flye.gif` — *cable cross-over* | Standing cable fly. |
+| Cable rear-delt raise / Cable Two-Arm Reverse Flye | `cable-reverse-fly.gif` — *cable cross-over reverse fly* | Shared clip. |
+| Rope Front Raise | `cable-front-raise.gif` — *cable front raise* | Cable, generic attachment. |
+| Dumbbell Front Raise and Lateral Raise | `dumbbell-front-raise.gif` — *dumbbell front raise* | Combo shown as front raise. |
+| EZ-Bar Curl (outside/narrow grip) | `ez-bar-curl.gif` — *ez barbell curl* | Grip variants not distinguished. |
+| One-Arm Lying Cross-Body Dumbbell Triceps Ext. | `one-arm-dumbbell-lying-triceps-extension.gif` | Cross-body not distinguished. |
 
-## ✅ Exact / strong matches (no action needed)
+## ✅ Strong/exact matches (no action needed)
 
-Barbell Bench Press, Dumbbell Incline Press, One-Arm Dumbbell Row, Barbell Back Squat (barbell full squat),
-Leg Curl (lever lying leg curl), Dumbbell/Kettlebell Goblet Squat, Seated Dumbbell Overhead Press,
-Plate Front Raise (weighted front raise), Standing Barbell Curl (barbell curl), Dumbbell Lateral Raise,
-Dumbbell Hammer Curl, Dumbbell Flye, Two-Arm Bent-Over Dumbbell Row, Close-Grip Barbell Bench Press,
-Leg Extension (lever leg extension), Barbell Front Squat, Rope Triceps Extension, Barbell Upright Row,
-Straight-Bar Cable Curl (cable curl), Dumbbell Alternating Curl, One-Arm Dumbbell Lying Triceps Extension.
+Barbell/Dumbbell Incline & Bench Press, Pull-Up, Chin-Up, Push-Up, Deadlift, Barbell Bent-Over Row,
+Dumbbell Bench Press, EZ-Bar Close-Grip Triceps Press, Overhead Rope Triceps Extension, Bench Dip,
+Cable One-Arm Lateral Raise, Dumbbell Front Raise, Dumbbell Reverse Fly (rear delt), Rope Hammer Curl,
+Preacher Curl, Barbell Pullover, Burpee, Barbell Reverse Curl, Arnold Press, One-Arm Cable Triceps
+Extension — plus all Week 1 exact matches (bench press, squats, curls, raises, leg curl/extension, etc.).
 
 ---
 
