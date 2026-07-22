@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const pageTitle = 'Ab Program';
+const description = "Joe Manganiello's favorite ab routines from the EVOLUTION program.";
+
+const routines = [
+  {
+    name: 'Routine #1',
+    exercises: [
+      { label: 'A', name: 'Hanging Leg Raises', reps: '15 reps' },
+      { label: 'B', name: 'Hip-ups', reps: '20 reps' },
+      { label: 'C', name: 'Bicycles', reps: '25 reps' },
+      { label: 'D', name: 'Crunches', reps: '30 reps' },
+    ],
+  },
+  {
+    name: 'Routine #2',
+    exercises: [
+      { label: 'A', name: 'Toes to Bar', reps: '15 reps' },
+      { label: 'B', name: 'Reverse Bicycles', reps: '25 reps' },
+      { label: 'C', name: 'Mountain Climbers', reps: '20 reps each side' },
+      { label: 'D', name: 'Crunches', reps: '30 reps' },
+    ],
+  },
+];
+
+const instructions =
+  'Perform all four of the exercises as a circuit, with no rest in between. Rest for a minute and then repeat two more times for a total of three circuits.';
+---
+
+<BaseLayout pageTitle={pageTitle} description={description}>
+  {routines.map((routine) => (
+    <section class='mb-8'>
+      <h2>{routine.name}</h2>
+      <ul class='list-none pl-0'>
+        {routine.exercises.map((ex) => (
+          <li class='flex gap-3'>
+            <span class='font-semibold w-6 shrink-0'>{ex.label})</span>
+            <span><strong>{ex.name}</strong> — {ex.reps}</span>
+          </li>
+        ))}
+      </ul>
+      <p>{instructions}</p>
+    </section>
+  ))}
+</BaseLayout>

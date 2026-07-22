@@ -8,6 +8,7 @@ tags:
   - Week5
   - Deltoids and Biceps
   - Evolution  
+  - Ab Program
 pubDate: 2023-09-29
 cover: src/images/visvrs26.webp
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
@@ -23,7 +24,8 @@ author: Joe Manganiello
 **Workout 2 (Some Other Time During the Day)**
 
 ■ Dynamic Warm-Up
-■ Do an Ab Program. (See page 124.)
+
+■ Do an [Ab Program](/ab-program)
 
 **■ Circuit 1:** This couplet set is performed with little or no rest between each set until both exercises are completed.
 

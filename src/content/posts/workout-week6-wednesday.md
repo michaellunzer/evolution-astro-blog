@@ -8,6 +8,7 @@ tags:
   - Week6
   - Deltoids and Biceps
   - Evolution  
+  - Ab Program
 pubDate: 2023-10-06
 cover: src/images/visvrs5.webp 
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
@@ -24,7 +25,7 @@ author: Joe Manganiello
 
 ■ Dynamic Warm-Up
 
-■ Do an Ab Program. (See page 124.)
+■ Do an [Ab Program](/ab-program)
 
 *This is the [Week 5 Wednesday](/workout-week5-wednesday/) workout, with the rest between sets cut down to 50 seconds.*
 
