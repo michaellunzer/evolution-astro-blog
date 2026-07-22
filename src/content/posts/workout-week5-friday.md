@@ -8,6 +8,7 @@ tags:
   - Week5
   - Legs and Triceps
   - Evolution   
+  - Ab Program
 pubDate: 2023-09-29
 cover: src/images/visvrs8.webp
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
@@ -23,7 +24,7 @@ author: Joe Manganiello
 **Workout 2 (Some Other Time During the Day)**
 
 ■ Dynamic Warm-Up
-■ Do an Ab Program. (See page 124.)
+■ Do an [Ab Program](/ab-program)
 
 **■ Circuit 1:** This giant set is performed with little or no rest between each set until all four exercises are completed.
 

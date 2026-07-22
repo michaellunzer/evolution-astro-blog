@@ -8,6 +8,7 @@ tags:
   - Week3
   - Chest and Back
   - Evolution
+  - Ab Program
 pubDate: 2023-09-15
 cover: src/images/visvrs31.webp
 coverAlt: VisVrs-Lorem ipsum dolor sit amet
@@ -17,7 +18,7 @@ author: Joe Manganiello
 **THURSDAY: CHEST AND BACK**
 
 ■ Dynamic Warm-Up
-■ Do an Ab Program. (See page 124.)
+■ Do an [Ab Program](/ab-program)
 
 **■ Circuit 1:** This triplet set is performed with little or no rest between each set until all three exercises are completed.
 
