@@ -5,17 +5,30 @@ import PostCard from '../../../components/PostCard.astro';
 import Pagination from '../../../components/Pagination.astro';
 
 export async function getStaticPaths({ paginate }) {
+  // Order workouts within a week from Monday through Saturday.
+  // Defined inside getStaticPaths: Astro evaluates this function in
+  // isolation and can't reference helpers from the component frontmatter.
+  const DAY_ORDER = { monday: 1, tuesday: 2, wednesday: 3, thursday: 4, friday: 5, saturday: 6, sunday: 7 };
+  const dayIndex = (post) => {
+    const match = post.slug.match(/-(monday|tuesday|wednesday|thursday|friday|saturday|sunday)$/i);
+    return match ? DAY_ORDER[match[1].toLowerCase()] : 99;
+  };
+
   // Fetch all posts and extract unique categories
   const allPosts = await getCollection('posts');
   const uniqueCategory = [...new Set(allPosts.map((post) => post.data.category).flat())];
 
   // Generate static paths for each category
   return uniqueCategory.flatMap((category) => {
-    // Filter posts by category and sort by publication date in descending order
+    // Filter posts by category, then sort chronologically: by publication
+    // date, and within a week from Monday (first) to Saturday (last).
     const filteredPosts = allPosts.filter((post) =>
       post.data.category.includes(category)
     );
-    filteredPosts.sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
+    filteredPosts.sort((a, b) =>
+      (new Date(a.data.pubDate).valueOf() - new Date(b.data.pubDate).valueOf()) ||
+      (dayIndex(a) - dayIndex(b))
+    );
 
     // Paginate the filtered posts
     return paginate(filteredPosts, { pageSize: 12, params: { category } });
